@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +93,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
