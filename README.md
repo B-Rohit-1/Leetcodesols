@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0072-edit-distance) |
 ## Math
 |  |
 | ------- |
