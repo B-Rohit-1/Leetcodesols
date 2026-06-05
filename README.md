@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0045-jump-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0045-jump-game-ii) |
 ## Backtracking
 |  |
 | ------- |
