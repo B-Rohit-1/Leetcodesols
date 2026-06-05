@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0062-unique-paths) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/B-Rohit-1/Leetcodesols/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
